@@ -13,12 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  #bedge{
-  text-align:center
-  
-  }
-  </style>
+
 
 <img src="https://user-images.githubusercontent.com/102133961/167402745-2f2045c3-c0ce-4ed8-9297-80782d4ff4bd.jpg" style="width=100% height=300px">
 <div id="bedge" style="text-align:center"><br><br><br><br><br>
@@ -36,6 +31,6 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
  </div> 
  <br><br><br>
-<div style="text-align:center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=solarized-light)
-  </div>
+ 
