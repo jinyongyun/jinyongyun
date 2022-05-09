@@ -31,6 +31,7 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
  </div> 
  <br><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=swift)<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=swift)
+<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyongyun)](https://github.com/anuraghazra/github-readme-stats)
 
