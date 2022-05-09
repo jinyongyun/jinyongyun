@@ -26,7 +26,7 @@ ios를 줌심으로 공부하고 있는 학생입니다<br>
 기어가도록 하겠습니다 <br>          
  </div><br><br><br>
             
- <div align="center"><br><br><br>           
+ <div align="center">          
  <h5>TECH STACK<h5><br><br>
   <b>used as the main</b><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
