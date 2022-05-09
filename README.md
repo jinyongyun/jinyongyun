@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/102133961/167402745-2f2045c3-c0ce-4ed8-9297-80782d4ff4bd.jpg" style="width=100% height=300px"><br><br><br><br>
 
 <div align="center">
- 안녕하세요 먹고싶으면 뭐든 먹어치우는 애벌레입니다!:bug:
- ios를 중심으로 이것저것 배우고 있습니다
- 느리더라도 확실히 저만의 속도로 배워나갈 생각입니다!:seedling:
- 잘부탁드립니다
+ 안녕하세요 먹고싶으면 뭐든 먹어치우는 애벌레입니다!:bug:<br>
+ ios를 중심으로 이것저것 배우고 있습니다<br>
+ 느리더라도 확실히 저만의 속도로 배워나갈 생각입니다!:seedling:<br>
+ 잘부탁드립니다<br>
  </div><br><br>
  
  
