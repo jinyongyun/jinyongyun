@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  
  <div align="center">          
- :shipit:<h5>TECH STACK<h5><br><br>:shipit:
+ :shipit:<h5>TECH STACK<h5>:shipit:<br><br>
   <b>used as the main</b><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
