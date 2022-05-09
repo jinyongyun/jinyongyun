@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/102133961/167402745-2f2045c3-c0ce-4ed8-9297-80782d4ff4bd.jpg" style="width=100% height=300px">
 <div style="text-align:center">
   TECH STACK<br>
-  <b>used as the main</b>
+  <b>used as the main</b><br>
 <img src="https://img.shields.io/badge/JAVA-#22FF6B?style=for-the-badge&logo=Java&logoColor=black">
   <img src="https://img.shields.io/badge/Java-#22FF6B?style=flat-square&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-#FFFB00?style=for-the-badge&logo=C++&logoColor=black">
   <img src="https://img.shields.io/badge/Swift-#B32525?style=for-the-badge&logo=Swift&logoColor=black"><br>
-  used at least once
+  used at least once<br>
     <img src="https://img.shields.io/badge/C-#94923E?style=for-the-badge&logo=C&logoColor=black">
     <img src="https://img.shields.io/badge/C-#ABAA97?style=for-the-badge&logo=HTML5&logoColor=black">
     <img src="https://img.shields.io/badge/C-#FAEF34?style=for-the-badge&logo=CSS3=black">
