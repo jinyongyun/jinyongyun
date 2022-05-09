@@ -32,5 +32,5 @@ Here are some ideas to get you started:
  </div> 
  <br><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=solarized-light)
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyongyun)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jinyongyun?theme=Gradient)(https://github.com/anuraghazra/github-readme-stats)
