@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/102133961/167402745-2f2045c3-c0ce-4ed8-9297-80782d4ff4bd.jpg" style="width=100% height=300px"><br><br><br><br>
 
  
-<div align="center>
-ios를 줌심으로 공부하고 있는 학생입니다<br>
- 아직 많이 미숙하지만 저만의 속도로 <br>
-엉금엉금 <br>
-멈추지 않고 <br>
-기어가도록 하겠습니다 <br>          
- </div><br><br><br>
-            
  <div align="center">          
  <h5>TECH STACK<h5><br><br>
   <b>used as the main</b><br><br>
