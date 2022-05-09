@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/102133961/167402745-2f2045c3-c0ce-4ed8-9297-80782d4ff4bd.jpg" style="width=100% height=300px">
 <div align="center"><br><br><br><br><br>
-  <h1>IOS공부하고 있는 애송이 애벌레입니다<h1>
+  <h1>IOS공부하고 있는 애송이 애벌레입니다. 차근차근 저만의 속도로 가겠습니다</h1>
     <br><br><br><br><br>
   TECH STACK<br>
   <b>used as the main</b><br><br>
