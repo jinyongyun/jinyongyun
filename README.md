@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/102133961/167402745-2f2045c3-c0ce-4ed8-9297-80782d4ff4bd.jpg" style="width=100% height=300px">
 <div align="center"><br><br><br><br><br>
 
-    <br><br><br><br><br>
  <h5>TECH STACK<h5><br><br>
   <b>used as the main</b><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
