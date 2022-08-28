@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![코딩하는 도비 메인](https://user-images.githubusercontent.com/102133961/187065578-29e194ba-e3d1-42b4-80eb-eb61a8bc4dcb.png)
 
 <img src="https://user-images.githubusercontent.com/102133961/187065578-29e194ba-e3d1-42b4-80eb-eb61a8bc4dcb.png" style="width=100% height=300px"><br><br><br><br>
 
