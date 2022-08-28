@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![코딩하는 도비 메인](https://user-images.githubusercontent.com/102133961/187065578-29e194ba-e3d1-42b4-80eb-eb61a8bc4dcb.png)
 
-<img src="https://user-images.githubusercontent.com/102133961/167402745-2f2045c3-c0ce-4ed8-9297-80782d4ff4bd.jpg" style="width=100% height=300px"><br><br><br><br>
+<img src="https://user-images.githubusercontent.com/102133961/187065578-29e194ba-e3d1-42b4-80eb-eb61a8bc4dcb.png" style="width=100% height=300px"><br><br><br><br>
 
 <div align="center">
- 안녕하세요 먹고싶으면 뭐든 먹어치우는 애벌레입니다!:bug:<br>
+ 안녕하세요 코딩하는 도비입니다!:bug:<br>
  ios를 중심으로 이것저것 배우고 있습니다<br>
- 느리더라도 확실히 저만의 속도로 배워나갈 생각입니다!:seedling:<br>
+ 코딩하는 도비, 우리들의 집요정!:seedling:<br>
  잘부탁드립니다<br>
  </div><br><br>
  
