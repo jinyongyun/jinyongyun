@@ -13,16 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<img src="https://user-images.githubusercontent.com/102133961/187065578-29e194ba-e3d1-42b4-80eb-eb61a8bc4dcb.png" style="width=100% height=300px"><br><br><br><br>
-
-<div align="center">
- 안녕하세요 코딩하는 도비입니다!:bug:<br>
- ios를 중심으로 이것저것 배우고 있습니다<br>
- 코딩하는 도비, 우리들의 집요정!:seedling:<br>
- 잘부탁드립니다<br>
- </div><br><br>
  
  
  <div align="center">          
