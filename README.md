@@ -13,20 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <style>
-.left-box {
-  background: red;
-  float: left;
-  width: 50%;
-}
-.right-box {
-  background: blue;
-  float: right;
-  width: 50%;
-}
-</style>
  
- <div class='left-box'>          
+ <div align='left'>          
  <h5>:bulb:TECH STACK:bulb:<h5><br><br>
   <b>used as the main Language</b><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -48,10 +36,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
  </div>
                                                                                                       
-<div class='right-box'>
-                   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=swift)
+<div align='right'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinyongyun)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=swift)
 
   </div>
