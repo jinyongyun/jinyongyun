@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <br><br>
   main tech tools<br><br>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img src="https://img.shields.io/badge/GitKraken-#179287?style=for-the-badge&logo=GitKraken&logoColor=white">
+  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
  </div><br><br><br><br><br>
                                                                                                       
 <div align="center">
