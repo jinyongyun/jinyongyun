@@ -16,7 +16,7 @@ Here are some ideas to get you started:
  
  <div align='center'>          
  <h5>:bulb:TECH STACK:bulb:<h5><br><br>
-  <b>used as the main Language</b><br><br>
+  ## Used as the main Language
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
