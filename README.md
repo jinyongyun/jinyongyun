@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- <div align='left'>          
+ <div align='center'>          
  <h5>:bulb:TECH STACK:bulb:<h5><br><br>
   <b>used as the main Language</b><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -34,9 +34,8 @@ Here are some ideas to get you started:
   main tech tools<br><br>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
- </div>
+  <br />
                                                                                                       
-<div align='right'>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=swift)
 
