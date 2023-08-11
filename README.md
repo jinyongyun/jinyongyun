@@ -26,7 +26,7 @@
   </div>
 
   
-  ### 🂫 main tech tools 🂦
+  ### 🦾 main tech tools 🦿
   <div>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
