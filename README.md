@@ -13,9 +13,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <style>
+.left-box {
+  background: red;
+  float: left;
+  width: 50%;
+}
+.right-box {
+  background: blue;
+  float: right;
+  width: 50%;
+}
+</style>
  
- 
- <div align="center">          
+ <div class='left-box'>          
  <h5>:bulb:TECH STACK:bulb:<h5><br><br>
   <b>used as the main Language</b><br><br>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -35,9 +46,9 @@ Here are some ideas to get you started:
   main tech tools<br><br>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
- </div><br><br><br><br><br>
+ </div>
                                                                                                       
-<div align="center">
+<div class='right-box'>
                    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=swift)
 
