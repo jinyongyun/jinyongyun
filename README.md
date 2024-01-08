@@ -13,15 +13,15 @@
 
 # 🦾 Developer
 
----
 
 - 안녕하세요! **‘*함께 일하고 싶은 개발자*’** 를 목표로 하고 있는 윤진용입니다.
 - **T형 인재를 지향합니다**
 - 집중강화기간을 겪고 있습니다.
 
 # 🛠  Skills
-
----
+<details>
+<summary>자신있어</summary>
+<div markdown="1">
 
 **Swift**
 
@@ -46,6 +46,10 @@
 - **Firebase** - Firebase를 사용하여 데이터를 Firebase 서버에 저장,삭제,수정,조회 할 수 있습니다.
 - **UserNotifications** - 사용자가 지정한 notificationRequest를 UNCenter에 등록하고 알림을 불러올 수 있습니다.
 - **UICollectionViewCompositionalLayout**
+
+</div>
+</details>
+
                                                                                                       
   <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyongyun&show_icons=true&theme=swift)
