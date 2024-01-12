@@ -20,7 +20,8 @@
 
 # 🛠  Skills
 <details>
-<summary>자신있어</summary>
+<summary><b>I'm confident I can overcome it</b></summary>
+  <br>
 <div markdown="1">
 
 **Swift**
