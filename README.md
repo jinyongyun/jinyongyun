@@ -59,7 +59,7 @@
 </details>
 
 
-# Education
+# 🎓 Education
 
 🌴 인하대학교 컴퓨터공학과 (2019.3~)
 
@@ -70,7 +70,7 @@
 + 메모리를 기반으로 배우는 Swift 문법
 
 
-# Where to Find me 
+# 🙋🏻‍♂️ Where to Find me 
 노션 이력서 : [윤진용 | 함께 일하고 싶은 iOS 개발자](https://www.notion.so/iOS-04886ec6e85a4487bf03ec392e407663?pvs=21)
 
 이메일 : dbswlsdyd730@naver.com
