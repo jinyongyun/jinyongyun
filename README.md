@@ -8,8 +8,10 @@
 ```
 
 # 출시한 앱
+### 🐽 [머니뭐니](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS)
 ![머니뭐니조감](https://github.com/jinyongyun/jinyongyun/assets/102133961/70f1051b-6063-4864-bc47-6d7255ada512)
 
+### 🐟 [어디여](https://github.com/jinyongyun/Eodiyeo)
 ![어디여조감](https://github.com/jinyongyun/jinyongyun/assets/102133961/20d0eeeb-fc93-43f6-b97a-e8ab3a0a1299)
 
 
