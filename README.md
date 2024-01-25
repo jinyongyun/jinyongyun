@@ -1,5 +1,9 @@
 # 🍎 윤진용 | 함께 일하고 싶은 개발자
 
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+
+
 ```swift
 /*
 함께 일하고 싶은 개발자가 되는 것이 목표입니다!
