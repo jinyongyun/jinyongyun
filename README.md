@@ -8,17 +8,10 @@
 ```
 
 # 출시한 앱
-🐽 머니뭐니 : 목표 달성 증진 가계부 앱
-![1](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/55e6c970-c982-497f-bec8-b80f9c39f44f)| ![2 PNG](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/a3242b64-592b-4e98-92ae-ee063fce2698)| ![3 PNG](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/521ba961-3b76-4ce5-a2ad-d0b3278be9e5)| ![4](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/69466445-b233-411c-a048-44404b3893a8)
------ | ----- | ----- | ----- 
+![머니뭐니조감](https://github.com/jinyongyun/jinyongyun/assets/102133961/70f1051b-6063-4864-bc47-6d7255ada512)
 
-<img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/55e6c970-c982-497f-bec8-b80f9c39f44f.png" width="130" height="200/>| <img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/a3242b64-592b-4e98-92ae-ee063fce2698.png" width="130" height="200"/>| <img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/521ba961-3b76-4ce5-a2ad-d0b3278be9e5" width="130" height="200"/>| <img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/69466445-b233-411c-a048-44404b3893a8.png" width="130" height="200/>
------ | ----- | ----- | ----- 
+![어디여조감](https://github.com/jinyongyun/jinyongyun/assets/102133961/20d0eeeb-fc93-43f6-b97a-e8ab3a0a1299)
 
-
-🐟 어디여 : 사용자 위치 기반 TO_DO_LIST 앱
-![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 47 40](https://github.com/jinyongyun/Eodiyeo/assets/102133961/ca2619e5-c5a8-4a8b-bff4-0425dcba654d)| ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 50 47](https://github.com/jinyongyun/Eodiyeo/assets/102133961/37a8d501-86cc-459d-9ce2-6c8b60f3d200)| ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 51 01](https://github.com/jinyongyun/Eodiyeo/assets/102133961/7bcf7802-c637-42a8-ad5b-c344f0cb4345) | ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 51 20](https://github.com/jinyongyun/jinyongyun/assets/102133961/b8edf739-57b6-4caa-8e01-6032a8486850)
------ | ----- | ----- | -----
 
 
 
@@ -67,10 +60,17 @@
 
 
 # Education
-🌴 인하대학교 컴퓨터공학과 19학번 (재학중)
-🍎 앨런 Swift 문법 마스터 스쿨 29기 (BootCamp)
+
+🌴 인하대학교 컴퓨터공학과 (2019.3~)
+
++ CS 전공 지식 학습
+
+🍎 앨런 Swift 문법 마스터 스쿨 29기 (2023.1~)
+
++ 메모리를 기반으로 배우는 Swift 문법
 
 
-# Find me 
-[노션 RESUME](https://band-icebreaker-270.notion.site/04886ec6e85a4487bf03ec392e407663?pvs=4)
-dbswlsdyd730@naver.com
+# Where to Find me 
+노션 이력서 : [윤진용 | 함께 일하고 싶은 iOS 개발자](https://www.notion.so/iOS-04886ec6e85a4487bf03ec392e407663?pvs=21)
+
+이메일 : dbswlsdyd730@naver.com
