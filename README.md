@@ -12,7 +12,9 @@
 ![1](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/55e6c970-c982-497f-bec8-b80f9c39f44f)| ![2 PNG](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/a3242b64-592b-4e98-92ae-ee063fce2698)| ![3 PNG](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/521ba961-3b76-4ce5-a2ad-d0b3278be9e5)| ![4](https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/69466445-b233-411c-a048-44404b3893a8)
 ----- | ----- | ----- | ----- 
 
-<img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/a3242b64-592b-4e98-92ae-ee063fce2698.png" width="100" height="100"/>
+<img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/55e6c970-c982-497f-bec8-b80f9c39f44f.png" width="130" height="200/>| <img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/a3242b64-592b-4e98-92ae-ee063fce2698.png" width="130" height="200"/>| <img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/521ba961-3b76-4ce5-a2ad-d0b3278be9e5" width="130" height="200"/>| <img src="https://github.com/jinyongyun/WHAT_IS_MONEY_IOS/assets/102133961/69466445-b233-411c-a048-44404b3893a8.png" width="130" height="200/>
+----- | ----- | ----- | ----- 
+
 
 🐟 어디여 : 사용자 위치 기반 TO_DO_LIST 앱
 ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 47 40](https://github.com/jinyongyun/Eodiyeo/assets/102133961/ca2619e5-c5a8-4a8b-bff4-0425dcba654d)| ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 50 47](https://github.com/jinyongyun/Eodiyeo/assets/102133961/37a8d501-86cc-459d-9ce2-6c8b60f3d200)| ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 51 01](https://github.com/jinyongyun/Eodiyeo/assets/102133961/7bcf7802-c637-42a8-ad5b-c344f0cb4345) | ![Simulator Screenshot - iPhone 15 - 2024-01-05 at 12 51 20](https://github.com/jinyongyun/jinyongyun/assets/102133961/b8edf739-57b6-4caa-8e01-6032a8486850)
