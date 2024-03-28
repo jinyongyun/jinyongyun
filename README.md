@@ -56,7 +56,9 @@
 - **KingFisher** - 이미지를 캐싱하여 재접근시 이미지 로딩 시간을 줄여서 사용할 수 있습니다.
 - **Firebase** - Firebase를 사용하여 데이터를 Firebase 서버에 저장,삭제,수정,조회 할 수 있습니다.
 - **UserNotifications** - 사용자가 지정한 notificationRequest를 UNCenter에 등록하고 알림을 불러올 수 있습니다.
-- **UICollectionViewCompositionalLayout** - ****UICollectionViewController의 section 별 복잡한 레이아웃을 구현할 수 있습니다.
+- **UICollectionViewCompositionalLayout** - UICollectionViewController의 section 별 복잡한 레이아웃을 구현할 수 있습니다.
+- **ARKit, SceneKit** - ARKit과 SceneKit을 이용한 3D 애니메이션 구현 및 증강현실을 구현할 수 있습니다.
+- **CoreML** - CoreML을 활용해 머신러닝 iOS 앱을 개발할 수 있습니다.
 
 </div>
 </details>
